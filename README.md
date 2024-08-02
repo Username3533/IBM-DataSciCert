@@ -1,3 +1,3 @@
-# IBM-DataSciCert
+# IBM-DataSciCert  
 
-IBM data science cert
+IBM data science certificate
